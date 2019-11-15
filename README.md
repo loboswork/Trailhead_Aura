@@ -6,3 +6,5 @@ Aura Project
 不動産アプリケーションで Lightning コンポーネントを使用して条件で指定されたレコードデータを取得します。
 
 https://trailhead.salesforce.com/ja/content/learn/projects/workshop-lightning-programmatic
+
+aura:methodを使用していません
